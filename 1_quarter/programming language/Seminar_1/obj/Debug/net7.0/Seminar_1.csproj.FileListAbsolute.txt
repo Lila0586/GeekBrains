@@ -1,0 +1,14 @@
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/bin/Debug/net7.0/Seminar_1
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/bin/Debug/net7.0/Seminar_1.deps.json
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/bin/Debug/net7.0/Seminar_1.runtimeconfig.json
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/bin/Debug/net7.0/Seminar_1.dll
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/bin/Debug/net7.0/Seminar_1.pdb
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.AssemblyInfoInputs.cache
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.AssemblyInfo.cs
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.csproj.CoreCompileInputs.cache
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.dll
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/refint/Seminar_1.dll
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.pdb
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/Seminar_1.genruntimeconfig.cache
+/Users/Lila/Desktop/GeekBrains/1_quarter/programming language/Seminar_1/obj/Debug/net7.0/ref/Seminar_1.dll
